@@ -1,0 +1,16 @@
+                                         No. of
+                                        residues     %-tage
+                                         ------      ------
+Most favoured regions      [A,B,L]          375       89.7%*  
+Additional allowed regions [a,b,l,p]         30        7.2%          
+Generously allowed regions [~a,~b,~l,~p]      9        2.2%          
+Disallowed regions         [XX]               4        1.0%*  
+                                           ----      ------
+Non-glycine and non-proline residues        418      100.0%
+
+End-residues (excl. Gly and Pro)              2
+
+Glycine residues                             28
+Proline residues                             22
+                                           ----
+Total number of residues                    470
